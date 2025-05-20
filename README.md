@@ -11,8 +11,7 @@ A simple REST API that serves as a middleman between users and a Jekyll blog, ha
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd blog-api
+git clone git@github.com:That-Thing/JekyllMiddlewareAPI.git
 ```
 
 2. Install dependencies:
